@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chad-Git1
 - 👀 I’m interested in web and app development, IT and much more!
-- 🌱 I’m currently learning JS && CSS && HTML
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on web dev, note taking software, and possibly ai
 
 - 📖 Languages:
