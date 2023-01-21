@@ -7,10 +7,6 @@
   -  🐍 Python
   -  🍵 Java
 
-- 📫 chadbyassin@gmail.com
-      - Serious inquiries only
-- 🔗 https://ca.linkedin.com/in/chad-yassin
-
 <!---
 Chad-Git1/Chad-Git1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
