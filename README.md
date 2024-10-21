@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Chad (@Chad-Git1)
-- 👀 I’m interested in learning!
-Chad-Git1/Chad-Git1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thankyou for checking out my github, I've mostly used this account for course work, and thus have kept most repositories hidden.
+If you are interested in any of my project or want help with using something I've built, I'm happy to help.
